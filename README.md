@@ -8,4 +8,4 @@ MySQL: Advanced SQL concepts including Joins, CTEs, Subqueries and more to extra
 
 **📈 Insights & Recommendations**
 
-Proposed Solutions: Take initiatives like gift vouchers, student discounts and other attractive promotions to enhance customer engagement and sales.
+Proposed Suggestions: Take initiatives like gift vouchers, student discounts and other attractive promotions to enhance customer engagement and sales.
